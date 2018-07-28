@@ -1,0 +1,27 @@
+/* Pallet{
+    /* color: #005874; dark blue */
+    /* color: #1c819e; light blue */
+    /* color: #e6e6d4; grey */
+    /* color: #ffbe00; yellow
+} */
+
+.body-bg {
+    background-color: #e6e6d4;
+}
+.container-bg {
+    background-color: white;
+}
+.mypic {
+    outline: 2px solid #e6e6d4;
+    background-image: url(me.jpg);
+    background-size: cover;
+    box-shadow: black 0.1em 0.1em 0.2em;
+}
+.text-dark-blue {
+    display: inline;
+    color: #005874;
+}
+.text-color-grey-drop {
+    color: #e6e6d4;
+    text-shadow: rgba(0, 0, 0, 0.2) 0.1em 0.1em 0.2em;
+}
